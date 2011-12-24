@@ -1,5 +1,5 @@
 #Get-Simple-Plugin Events
-This is version 2.1.1j.  Please see the "Current Branch" dropdown list for development "Master" and stable versions..1
+This is version 2.1.1j.  Please see the "Current Branch" dropdown list for development "Master" and stable versions.
 Please be aware, all but the newest version should be used with caution as they may be out of date and are no longer supported.
 
 ##Compatibility
