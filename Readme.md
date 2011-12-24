@@ -1,5 +1,5 @@
 #Get-Simple-Plugin Events
-Master Branch is the development version of Events plugin.  Please see the "Current Branch" dropdown list for stable versions.
+This is version 2.1j.  Please see the "Current Branch" dropdown list for development "Master" and stable versions.
 
 ##File Meta Info (file-info/file-info.php)
 
